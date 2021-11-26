@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: cursive, sans-serif;
+}
+#main {
+  margin: 0 auto;
+  background: #eee;
+  padding: 1em;
+}
+
+#title {
+  padding-top: 1em;
+}
+
+#img-div {
+  background: #fff;
+  padding: 0.625em;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  margin: 1em;
+}
+
+.bibliography {
+  margin: 0 auto;
+  background: #fff;
+  max-width: 25%;
+  text-align: left;
+  line-height: 1.5em;
+  padding: 1.5em;
+}
+
+.bibliography li {
+  font-size: 0.9em;
+}
+
+#tribute-link {
+  text-decoration: none;
+  color: #222;
+}
+
+#tribute-link:hover, #tribute-link:focus {
+  opacity: 0.6;
+  font-style: italic;
+}
